@@ -1,6 +1,2 @@
-# Projet4A
-On veut ici vous présenter notre projet :-)
-lele
-lele
-lele
-lele
+Stage de 4ème année 
+Reseaux de neurones convolutionnels, diminuer le temps d apprentissage pour la classification d'images. 
