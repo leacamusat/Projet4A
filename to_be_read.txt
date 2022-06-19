@@ -1,0 +1,4 @@
+Use of the several files
+The different functions provide several files which are saved in different repositories. A repository tests is created. Inside of this repository, you will find :
+1) a file "cracks_depth=k.csv" which contains a matrix of size (height of image, summ_i^depth number_of_channels^i)
+2) a file "cracks_depth=k.csv" which contains a matrix of size (height of image, summ_i^depth number_of_channels^i)
