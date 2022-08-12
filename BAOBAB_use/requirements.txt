@@ -1,0 +1,16 @@
+
+tensorflow
+keras
+torch
+signatory
+torchaudio
+torchvision
+Pillow
+numpy
+scipy
+sklearn 
+scikit-learn
+opencv-python
+opencv-contrib-python
+pandas
+iisignature
